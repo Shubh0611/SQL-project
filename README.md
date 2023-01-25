@@ -1,2 +1,1 @@
-# SQL-project
-My SQL Portfolio project
+# SQL-Projects & Case sudies
